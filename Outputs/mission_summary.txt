@@ -1,0 +1,12 @@
+
+==================================================
+          MULTI-ROBOT MISSION REPORT
+==================================================
+
+Robots Active      : 3
+Tasks Assigned     : 3
+Tasks Completed    : 3
+Collisions         : 0
+Mission Status     : SUCCESS
+
+==================================================
